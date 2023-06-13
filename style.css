@@ -64,6 +64,9 @@ form {
   position: relative;
   top: -20px;
 }
-.code {
-  text-align: center;
+.code-source {
+  color: black;
+}
+#link {
+  color: black;
 }
