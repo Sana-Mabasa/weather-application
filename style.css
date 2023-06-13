@@ -64,3 +64,6 @@ form {
   position: relative;
   top: -20px;
 }
+.code {
+  text-align: center;
+}
