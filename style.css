@@ -1,0 +1,66 @@
+h2 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 60px;
+  line-height: 60px;
+  font-family: Helvetica;
+  margin-bottom: 30px;
+}
+h1 {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 15px;
+}
+input [value="🔎"] {
+  background-color: red;
+}
+h5 {
+  text-align: center;
+  font-size: 25px;
+}
+
+p {
+  margin-top: 50px;
+  font-size: 19px;
+  font-weight: bold;
+  text-align: center;
+}
+body {
+  margin: 0 auto;
+  max-width: 1000px;
+  background-image: url(clouds.jpg);
+  background-size: 100%;
+}
+.vl {
+  border-left: 6px solid #f70776;
+}
+form {
+  text-align: center;
+}
+
+.container {
+  background-color: #00bbf0;
+  border: 2px solid green;
+}
+.row {
+  margin: 0 auto;
+  margin-top: 30px;
+
+  max-width: 1000px;
+}
+.rain {
+  font-size: 13px;
+  font-style: italic;
+}
+.col-3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.col-5 {
+  text-align: center;
+}
+.degreeFahrenheit {
+  font-size: 35px;
+  position: relative;
+  top: -20px;
+}
